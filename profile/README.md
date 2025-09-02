@@ -1,7 +1,7 @@
 # Welcome To Sesocell Games 👋
 ![Banner](http://cdn.savedsgn.com/assets/1920x1080.png)
 ## ❓ Who We are 
-We are Small Game Development Studio on Roblox Platform.
+We are a Small Game Development Studio on Roblox Platform.
 
 ## 🔥 Join our Team!
 
